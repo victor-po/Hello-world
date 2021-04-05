@@ -1,2 +1,2 @@
 # Hello-world
-begin
+hello everyone a math student 
